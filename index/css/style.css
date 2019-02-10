@@ -71,12 +71,11 @@ nav .container ul li {
 
 section#front {
 	background-image: url("../../images/front-image.jpg");
-	background-repeat: none;
+	background-repeat: repeat;
 	width: max-width;
 	height: 700px;
 	padding: 0;
 	margin: 0;
-
 	color: #fff;
 }
 
